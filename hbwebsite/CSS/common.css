@@ -1,0 +1,23 @@
+* {
+    font-family: "Afacad", sans-serif;
+  }
+  .h-font {
+    font-family: "Lora", cursive;
+  }
+  input::-webkit-outer-spin-button,
+  input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+
+  /* Firefox */
+  input[type="number"] {
+    -moz-appearance: textfield;
+  }
+  .custom-bg{
+    background-color:rgb(0, 65, 43);
+    border: 1px solid rgb(0, 65, 43);
+  }
+  .custom-bg:hover{
+    background-color:rgb(163, 82, 15);
+  }
